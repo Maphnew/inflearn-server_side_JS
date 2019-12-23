@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Maphnew/inflearn-server_side_JS#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.17.1",
     "express-session": "^1.17.0"
